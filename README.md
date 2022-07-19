@@ -1,4 +1,4 @@
-<h1><p align="center">Hello World! I'm Guillermo García! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello World! I'm Guillermo García <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 
 
@@ -36,15 +36,11 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=guillerdev97&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
 </p>
 ## Most Used Languages from the beginning
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerdev97&theme=blue-green&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerdev97)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
- <!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guillerdev97&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
+ 
 
 
 ##
