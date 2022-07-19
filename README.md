@@ -36,8 +36,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=guillerdev97&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
 </p>
 ## Most Used Languages from the beginning
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerdev97)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillerdev97)](https://github.com/anuraghazra/github-readme-stats">
+</p>
 
  
  
