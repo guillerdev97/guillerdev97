@@ -8,8 +8,10 @@
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🌱 I’m currently learning Full Stack Technologies: html, css, javascript (vue), php (laravel), java...
+- 🌱 I’m currently learning Full Stack Technologies
 
+
+# 💻 Tech Stack:
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -26,20 +28,12 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillermo-garcía-del-río-94b071224/)
 
 
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guillerdev97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guillerdev97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<summary><h2>My Github Stats</h2> </summary>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=guillerdev97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=guillerdev97&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-</p>
-
-
- 
- 
-
-
-##
-![Profile View Counter](https://komarev.com/ghpvc/?username=guillerdev97)
+---
+[![](https://visitcount.itsvg.in/api?id=ozknkrm&icon=0&color=0)](https://visitcount.itsvg.in)
