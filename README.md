@@ -9,7 +9,7 @@
 💬 Ask me about Java, JavaScript, PHP and more!<br><br>
 📫 Contact guillermieres97@gmail.com
 
-<br><br>
+<br>
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -20,13 +20,13 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<br><br>
+ 
+<br>
 
 ## 🌐 Socials:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillermo-garcía-del-río-94b071224/)
 
-<br><br>
+<br>
 
 ## 📊 GitHub Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=guillerdev97&show_icons=true&count_private=true&theme=merko&hide=issues&line_height=32">
