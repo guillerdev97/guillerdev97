@@ -4,9 +4,9 @@
 <p align="center">Never stop learning.<br>Always be your best version.</p><br/>
 
 ## 💫 About Me:
-🌱 I’m currently learning full-stack technologies.<br><br>
-💻 All of my projects are available here https://github.com/guillerdev97<br><br>
-💬 Ask me about Java, JavaScript, PHP and more!<br><br>
+🌱 I’m currently learning full-stack technologies.<br>
+💻 All of my projects are available here https://github.com/guillerdev97<br>
+💬 Ask me about Java, JavaScript, PHP and more!<br>
 📫 Contact guillermieres97@gmail.com
 
 <br>
