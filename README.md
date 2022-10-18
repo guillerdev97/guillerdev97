@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🌱 I’m currently learning full-stack technologies.<br>
 ⚙️ All of my projects are available here https://github.com/guillerdev97<br>
-💬 Ask me about Java, JavaScript, Laravel, Vue JS and more!<br>
+💬 Ask me about Laravel, JavaScript, Vue JS, Java  and more!<br>
 📫 Contact guillermieres97@gmail.com
 
 <br>
