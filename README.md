@@ -1,5 +1,5 @@
 <h3 align="center">Software Developer Full-Stack</h3>
-<p align="center">Never stop learning.<br>Work, work and work<br>Always be your best version..</p><br/>
+<p align="center">Never stop learning.<br>Work, work and work.<br>Always be your best version..</p><br/>
 
 ## 💫 About Me:
 🌱 I’m currently learning full-stack technologies: Spring Boot, Laravel, TDD, Design Patterns and Software Architecture.<br>
