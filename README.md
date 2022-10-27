@@ -2,8 +2,8 @@
 <p align="center">Never stop learning.<br>Always be your best version.</p><br/>
 
 ## 💫 About Me:
-🌱 I’m currently learning full-stack technologies.<br>
-⚙️ All of my projects are available here https://github.com/guillerdev97<br>
+🌱 I’m currently learning full-stack technologies: Spring Boot, Laravel, TDD, Design Patterns and Software Architecture.<br>
+⚙️ All of my projects are available here https://github.com/guillerdev97 You can reach me and ask me for questions!<br>
 💬 Ask me about Laravel, JavaScript, Vue JS, Java  and more!<br>
 📫 Contact guillermieres97@gmail.com
 
