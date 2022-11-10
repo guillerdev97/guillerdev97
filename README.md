@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🌱 I’m currently learning full-stack technologies: Spring Boot, Laravel, TDD, Design Patterns and Software Architecture.<br>
 ⚙️ All of my projects are available here https://github.com/guillerdev97. You can reach me and ask me for questions!<br>
-💬 Ask me about Laravel, JavaScript, Vue JS, Java.<br>
+💬 Ask me about Java, Spring Boot, Laravel, PHP, JavaScript, Vue JS.<br>
 📫 Contact guillermieres97@gmail.com
 
 <br>
